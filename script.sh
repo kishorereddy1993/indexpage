@@ -6,7 +6,7 @@ echo "Installing utilities"
 sudo apt install -y zip unzip 
 
 echo "Installing Nginx websever"
-subo apt install -y nginx
+sudo apt install -y nginx
 
 echo "Remove Sample Pages"
 suo rm -rf /var/www/html
